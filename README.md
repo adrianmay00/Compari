@@ -1,2 +1,3 @@
 # Compari
-Live, Laugh, Love
+
+**Live, Laugh, Love**
